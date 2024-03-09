@@ -1,10 +1,10 @@
-# VotingProgram
+# MellonTalk by AteHate (Made by Chris, Andy, and Lucia) 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="#">
-    <img src="mellontalk.jpeg" alt="Logo" width="800" height="368.56">
+    <img src="mellontalk.jpeg" alt="Logo" width="800" height="600.56">
   </a>
 
   <h3 align="center">Secure-online Voting System Using Homomorphic Encryption
